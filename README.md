@@ -8,10 +8,8 @@ In the results, return the correct pairs of order IDs and items.
 
 orders Schema:
 
-column_name	type	description
-order_id	integer	The ID of each Zomato order.
-item	string	The name of the food item in each order.
-orders Example Input:
+<img width="884" alt="image" src="https://github.com/compBiophyMete/SQL-Challanges/assets/135632077/08695ec1-2758-4b3e-8bed-3c0981910a80">
+
 
 Here's a sample of the initial incorrect data:
 
