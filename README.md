@@ -6,33 +6,19 @@ If the last item has an odd order ID, it should remain as the last item in the c
 
 In the results, return the correct pairs of order IDs and items.
 
-orders Schema:
 
 <img width="884" alt="image" src="https://github.com/compBiophyMete/SQL-Challanges/assets/135632077/08695ec1-2758-4b3e-8bed-3c0981910a80">
 
 
 Here's a sample of the initial incorrect data:
 
-order_id	item
-1	Chow Mein
-2	Pizza
-3	Pad Thai
-4	Butter Chicken
-5	Eggrolls
-6	Burger
-7	Tandoori Chicken
-orders Example Output:
+<img width="884" alt="image" src="https://github.com/compBiophyMete/SQL-Challanges/assets/135632077/7e797fdc-7f1f-4eb5-89f3-39c08649b84a">
+
 
 The corrected data should look like this:
 
-corrected_order_id	item
-1	Pizza
-2	Chow Mein
-3	Butter Chicken
-4	Pad Thai
-5	Burger
-6	Eggrolls
-7	Tandoori Chicken
+<img width="884" alt="image" src="https://github.com/compBiophyMete/SQL-Challanges/assets/135632077/e3cd8d3f-9315-4e7f-bf41-b99c981ffcd4">
+
 Order ID 1 is now associated with Pizza and Order ID 2 is paired with Chow Mein. This adjustment ensures that each order is correctly aligned with its respective item, addressing the initial swapping error.
 
 Order ID 7 remains unchanged and is still associated with Tandoori Chicken. This preserves the order sequence ensuring that the last odd order ID remains unaltered.
