@@ -6,14 +6,4 @@ Write a query to find the people who spent a higher than average amount of time 
 
 Provide just their first names alphabetically so we can reach out to them individually.
 
-
-user_time
-Field	              | Data Type
-user_id	            | int
-media_time_minutes	| int
-
-users
-
-Field               |	Data Type
-user_id	            | int
-first_name	        | text
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/c2d3b4d0-4299-43a7-95db-5d053ab33c30">
