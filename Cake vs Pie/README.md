@@ -7,3 +7,6 @@ Output should include the date sold, the difference between cakes and pies, and 
 Return the result table ordered by Date_Sold.
 
 Columns in output should be date_sold, difference, and sold_more.
+
+<img width="536" alt="image" src="https://github.com/user-attachments/assets/98c4f2aa-8ea4-4eeb-9ec4-a60fc08ced99">
+
