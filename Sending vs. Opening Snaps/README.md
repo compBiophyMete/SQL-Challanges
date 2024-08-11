@@ -8,3 +8,7 @@ Calculate the following percentages:
 - Time spent sending / (Time spent sending + Time spent opening)
 - Time spent opening / (Time spent sending + Time spent opening)
 To avoid integer division in percentages, multiply by 100.0 and not 100.
+
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/6077b038-5d05-4cc3-a35a-8fc0cbf61318">
+
+
